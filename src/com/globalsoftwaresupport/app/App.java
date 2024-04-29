@@ -5,7 +5,6 @@ import com.globalsoftwaresupport.blockchain.Blockchain;
 import com.globalsoftwaresupport.constants.Constants;
 import com.globalsoftwaresupport.cryptocurrency.*;
 import org.bouncycastle.jce.provider.BouncyCastleProvider;
-
 import java.security.KeyPair;
 import java.security.Security;
 
@@ -48,7 +47,7 @@ public class App {
         Block block3 = new Block(block2.getHash());
 
         System.out.println("\n USerB tries to send money (120 AfriCoin) to User A");
-        block1.addTransaction(userB.transferMoney(userB.getPublickey(), 120));
+        block1.addTransaction(userB.transferMoney(userA.getPublickey(), 120));
         miner.mine(block3,chain);
         System.out.println("\n UserA balance =:"+userA.calculateBalance());
         System.out.println("User B balance =:"+userB.calculateBalance());

@@ -1,0 +1,79 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"cfc8346f-3a5d-4b4d-af03-d9ff53fde229\" name=\"Changes\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Wallet.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/CryptocurrencyChain.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/CryptocurrencyChain.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/app/App.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/app/App.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Block.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Block.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Blockchain.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Blockchain.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Transaction.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Transaction.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/TransactionOutput.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/TransactionOutput.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;2003Kabelo&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/2003Kabelo/Ceyptocurrency.git&quot;,\r\n    &quot;accountId&quot;: &quot;c03f2d95-5024-4440-80ff-6a83cbcc7f47&quot;\r\n  }\r\n}</component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2f8T9QbxE8pS5RyDmy0ysEne8Ez\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.App.executor\": \"Run\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"crypto\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/202125831/Downloads/bcprov-jdk18on-1.78.jar\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/202125831/Downloads/BlockchainCryptocurrency/Cryptocurrency/CryptocurrencyChain/src/Main.java\",\r\n    \"project.structure.last.edited\": \"Global Libraries\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"cfc8346f-3a5d-4b4d-af03-d9ff53fde229\" name=\"Changes\" comment=\"\" />\r\n      <created>1713181553266</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1713181553266</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/TransactionInput.java</url>\r\n          <line>23</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 2a7b5480ab1aef8e80000319de776721d825e829)
++++ b/.idea/workspace.xml	(date 1713636028348)
+@@ -4,16 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="cfc8346f-3a5d-4b4d-af03-d9ff53fde229" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Wallet.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/CryptocurrencyChain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CryptocurrencyChain.iml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/app/App.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Block.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Blockchain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Blockchain.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Transaction.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/TransactionOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/TransactionOutput.java" afterDir="false" />
+-    </list>
++    <list default="true" id="cfc8346f-3a5d-4b4d-af03-d9ff53fde229" name="Changes" comment="CRYPTO" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -27,7 +18,13 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="PREVIOUS_COMMIT_AUTHORS">
++      <list>
++        <option value="202125831 &lt;mashapagesler03@gmail.com&gt;" />
++      </list>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="GitHubPullRequestSearchHistory">{
+   &quot;lastFilter&quot;: {
+@@ -72,7 +69,36 @@
+       <option name="presentableId" value="Default" />
+       <updated>1713181553266</updated>
+     </task>
++    <task id="LOCAL-00001" summary="CRYPTO">
++      <option name="closed" value="true" />
++      <created>1713635910552</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1713635910552</updated>
++    </task>
++    <task id="LOCAL-00002" summary="CRYPTO">
++      <option name="closed" value="true" />
++      <created>1713635921263</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1713635921263</updated>
++    </task>
++    <task id="LOCAL-00003" summary="CRYPTO">
++      <option name="closed" value="true" />
++      <created>1713636017412</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1713636017412</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="CRYPTO" />
++    <option name="LAST_COMMIT_MESSAGE" value="CRYPTO" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>

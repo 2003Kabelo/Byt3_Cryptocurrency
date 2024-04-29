@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfc8346f-3a5d-4b4d-af03-d9ff53fde229" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Wallet.java" afterDir="false" />
+    <list default="true" id="cfc8346f-3a5d-4b4d-af03-d9ff53fde229" name="Changes" comment="CRYPTO">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CryptocurrencyChain.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CryptocurrencyChain.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/app/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Blockchain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/blockchain/Blockchain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/TransactionOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/globalsoftwaresupport/cryptocurrency/TransactionOutput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,19 +44,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "crypto",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/202125831/Downloads/bcprov-jdk18on-1.78.jar",
-    "onboarding.tips.debug.path": "C:/Users/202125831/Downloads/BlockchainCryptocurrency/Cryptocurrency/CryptocurrencyChain/src/Main.java",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;crypto&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/202125831/Downloads/bcprov-jdk18on-1.78.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/202125831/Downloads/BlockchainCryptocurrency/Cryptocurrency/CryptocurrencyChain/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -73,6 +67,17 @@
       <updated>1713181553266</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
